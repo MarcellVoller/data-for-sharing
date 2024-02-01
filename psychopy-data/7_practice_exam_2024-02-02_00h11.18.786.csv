@@ -1,0 +1,74 @@
+﻿question,correct_answer,repeat_question_trial.thisRepN,repeat_question_trial.thisTrialN,repeat_question_trial.thisN,repeat_question_trial.thisIndex,thisRow.t,notes,welcome_screen.started,welcome_text.started,key_welcome.started,welcome_screen.stopped,key_welcome.keys,key_welcome.rt,key_welcome.duration,questions_trial.started,text.started,key_resp.started,questions_trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,goodbye_screen.started,text_goodbye.started,key_resp_2.started,goodbye_screen.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,0.01037280005402863,0.025902600027620792,0.025902600027620792,0.5265622000442818,space,0.49229740002192557,None,,,,,,,,,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"Which of these is not a real function in base R? 
+ 
+ A: t() 
+ B: diag() 
+ C: propo() 
+ D: matrix()",c,0,0,0,6,0.562332300003618,,,,,,,,,0.5346955000422895,0.562332300003618,0.562332300003618,2.245563199976459,c,1,1.6751586999744177,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"What is the correct syntax for making and saving png images in R? 
+ 
+ A: dev.on() 
+ plot() 
+ dev.off() 
+ 
+ B: plot() 
+ dev.off() 
+ save.png() 
+ 
+ C: png() 
+ plot() 
+ dev.off() 
+ 
+ D: plot() 
+ png() 
+ dev.off()",c,0,1,1,9,2.275467799976468,,,,,,,,,2.246368100051768,2.275467799976468,2.275467799976468,2.9754698999458924,c,1,0.683107899967581,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"What is the right way to use ifelse() in R? 
+ 
+ A: The first argument is your if logical, the second argument your else, there is no other argument. 
+ B: The first argument is your logical, the second what should happen if it is true, the third if it is false. 
+ C: The first argument is the logical to test, the other arguments allow you to make several outcomes. 
+ D: ifelse() is the same as three if-else statements.",b,0,2,2,0,3.017694600042887,,,,,,,,,2.9760796000482515,3.017694600042887,3.017694600042887,5.968877000035718,b,1,2.9386659000301734,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"What is the function of %>%? 
+ 
+ A: It transmits the value from one line into the function in the next line. 
+ B: It transforms the value using a single function on the left hand side and assigns it to the variable on the right hand side. 
+ C: It assigns a value to a variable name. 
+ D: It allows you to combine elements of the ggplot package.",a,0,3,3,2,6.005578399985097,,,,,,,,,5.969493199954741,6.005578399985097,6.005578399985097,7.03859160002321,a,1,1.0265965999569744,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"Which of the following is impossible in R? 
+ 
+ A: Making memes. 
+ B: Loading current data from a URL. 
+ C: Creating an app that organizes your spreadsheet. 
+ D: None of the above.",d,0,4,4,7,7.065546800033189,,,,,,,,,7.039220100035891,7.065546800033189,7.065546800033189,8.253322300035506,d,1,1.1796274000080302,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"Which of these is not a real difference between R and Python? 
+ 
+ A: A global variable can be called within a function in one but not the other language. 
+ B: The indexing begins with 0 in one of them, with 1 in the other. 
+ C: Square brackets [] cannot be used to access elements in a data frame in one of them. 
+ D: One of them relies more heavily on libraries than the other to perform its primary functions.",c,0,5,5,3,8.292578799999319,,,,,,,,,8.253943099989556,8.292578799999319,8.292578799999319,10.091954999952577,c,1,1.7876096999971196,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"What is the right way to begin a for loop in R? 
+ 
+ A: for i in 1:5: 
+ B: for [i] in [length(df)]: 
+ C: for(int i = 0; i < 5; i++) { 
+ D: for(i in 1:length(df)) {",d,0,6,6,4,10.118026899988763,,,,,,,,,10.092565799946897,10.118026899988763,10.118026899988763,10.985293700010516,d,1,0.8524518000194803,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"Which one of these gives you a quick overview of some of your data from a data frame? 
+ 
+ A: View(df) 
+ B: get_overview(df) 
+ C: tidyr::look(df) 
+  D: head(df)",d,0,7,7,1,11.006555699976161,,,,,,,,,10.985910800052807,11.006555699976161,11.006555699976161,12.039809599984437,d,1,1.0178698999807239,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"What is the right way to create a simple scatterplot with ggplot? 
+ 
+ A: ggplot(data = data, mapping = aes(x = xvar, y = yvar)) + geom_count() 
+ B: ggplot() + geom_count(mapping = c(x = xvar, y = yvar)) 
+ C: ggplot(data = data, mapping = aes(x = "xvar", y = "yvar")) + geom_point() 
+ D: ggplot(data = data, mapping = aes(x = xvar, y = yvar)) + geom_point()",d,0,8,8,5,12.07821409997996,,,,,,,,,12.040430299937725,12.07821409997996,12.07821409997996,13.227723199990578,d,1,1.1455894999671727,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+"Which Python library gives you access to your computer's current time (hour and minute)? 
+ 
+ A: time 
+ B: calendar 
+ C: numpy 
+ D: pd",a,0,9,9,8,13.24301390000619,,,,,,,,,13.228333699982613,13.24301390000619,13.24301390000619,14.244175500003621,a,1,0.9981618999736384,None,,,,,,,,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,
+,,,,,,,,,,,,,,,,,,,,,,,14.24461039993912,14.259975599939935,14.259975599939935,14.877622099942528,space,0.6125966999679804,None,7,001,2024-02-02_00h11.18.786,practice_exam,2023.2.3,60.5097218156501,2024-02-02 00h11.41.529820 +0100,

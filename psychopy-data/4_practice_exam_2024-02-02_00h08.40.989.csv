@@ -1,0 +1,74 @@
+﻿question,correct_answer,repeat_question_trial.thisRepN,repeat_question_trial.thisTrialN,repeat_question_trial.thisN,repeat_question_trial.thisIndex,thisRow.t,notes,welcome_screen.started,welcome_text.started,key_welcome.started,welcome_screen.stopped,key_welcome.keys,key_welcome.rt,key_welcome.duration,questions_trial.started,text.started,key_resp.started,questions_trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,goodbye_screen.started,text_goodbye.started,key_resp_2.started,goodbye_screen.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,0.0059828999219462276,0.022141199908219278,0.022141199908219278,0.7562716999091208,space,0.7310526999644935,None,,,,,,,,,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"What is the right way to begin a for loop in R? 
+ 
+ A: for i in 1:5: 
+ B: for [i] in [length(df)]: 
+ C: for(int i = 0; i < 5; i++) { 
+ D: for(i in 1:length(df)) {",d,0,0,0,4,0.8065368999959901,,,,,,,,,0.764533199951984,0.8065368999959901,0.8065368999959901,2.9233519999543205,d,1,2.111930500017479,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"Which Python library gives you access to your computer's current time (hour and minute)? 
+ 
+ A: time 
+ B: calendar 
+ C: numpy 
+ D: pd",a,0,1,1,8,2.94440489995759,,,,,,,,,2.924763199989684,2.94440489995759,2.94440489995759,4.46161569992546,a,1,1.5150145000079647,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"Which one of these gives you a quick overview of some of your data from a data frame? 
+ 
+ A: View(df) 
+ B: get_overview(df) 
+ C: tidyr::look(df) 
+  D: head(df)",d,0,2,2,1,4.483225299976766,,,,,,,,,4.462285999907181,4.483225299976766,4.483225299976766,6.201827200013213,d,1,1.7060034000314772,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"Which of these is not a real difference between R and Python? 
+ 
+ A: A global variable can be called within a function in one but not the other language. 
+ B: The indexing begins with 0 in one of them, with 1 in the other. 
+ C: Square brackets [] cannot be used to access elements in a data frame in one of them. 
+ D: One of them relies more heavily on libraries than the other to perform its primary functions.",c,0,3,3,3,6.238326399936341,,,,,,,,,6.202457599923946,6.238326399936341,6.238326399936341,9.20457850000821,c,1,2.9648786999750882,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"What is the right way to create a simple scatterplot with ggplot? 
+ 
+ A: ggplot(data = data, mapping = aes(x = xvar, y = yvar)) + geom_count() 
+ B: ggplot() + geom_count(mapping = c(x = xvar, y = yvar)) 
+ C: ggplot(data = data, mapping = aes(x = "xvar", y = "yvar")) + geom_point() 
+ D: ggplot(data = data, mapping = aes(x = xvar, y = yvar)) + geom_point()",d,0,4,4,5,9.258797599934042,,,,,,,,,9.205209599924274,9.258797599934042,9.258797599934042,14.425230999942869,d,1,5.15989869995974,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"Which of the following is impossible in R? 
+ 
+ A: Making memes. 
+ B: Loading current data from a URL. 
+ C: Creating an app that organizes your spreadsheet. 
+ D: None of the above.",d,0,5,5,7,14.45086280000396,,,,,,,,,14.425841799937189,14.45086280000396,14.45086280000396,16.90111649991013,d,1,2.4334367000265047,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"What is the function of %>%? 
+ 
+ A: It transmits the value from one line into the function in the next line. 
+ B: It transforms the value using a single function on the left hand side and assigns it to the variable on the right hand side. 
+ C: It assigns a value to a variable name. 
+ D: It allows you to combine elements of the ggplot package.",a,0,6,6,2,16.93642129993532,,,,,,,,,16.901746099931188,16.93642129993532,16.93642129993532,18.51934729993809,a,1,1.5737385000102222,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"Which of these is not a real function in base R? 
+ 
+ A: t() 
+ B: diag() 
+ C: propo() 
+ D: matrix()",c,0,7,7,6,18.534709199913777,,,,,,,,,18.519961299956776,18.534709199913777,18.534709199913777,19.76919879997149,c,1,1.225594700081274,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"What is the right way to use ifelse() in R? 
+ 
+ A: The first argument is your if logical, the second argument your else, there is no other argument. 
+ B: The first argument is your logical, the second what should happen if it is true, the third if it is false. 
+ C: The first argument is the logical to test, the other arguments allow you to make several outcomes. 
+ D: ifelse() is the same as three if-else statements.",b,0,8,8,0,19.81106659991201,,,,,,,,,19.769807799952105,19.81106659991201,19.81106659991201,22.659918899997137,b,1,2.8434151000110433,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+"What is the correct syntax for making and saving png images in R? 
+ 
+ A: dev.on() 
+ plot() 
+ dev.off() 
+ 
+ B: plot() 
+ dev.off() 
+ save.png() 
+ 
+ C: png() 
+ plot() 
+ dev.off() 
+ 
+ D: plot() 
+ png() 
+ dev.off()",c,0,9,9,9,22.683076899964362,,,,,,,,,22.660538999945857,22.683076899964362,22.683076899964362,23.85134479997214,c,1,1.1550355999497697,None,,,,,,,,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,
+,,,,,,,,,,,,,,,,,,,,,,,23.851802399964072,23.866994399926625,23.866994399926625,24.434216799912974,space,0.5607032999396324,None,4,001,2024-02-02_00h08.40.989,practice_exam,2023.2.3,59.98318069978884,2024-02-02 00h08.51.283922 +0100,

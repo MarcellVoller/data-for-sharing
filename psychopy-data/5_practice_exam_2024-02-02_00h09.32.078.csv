@@ -1,0 +1,74 @@
+﻿question,correct_answer,repeat_question_trial.thisRepN,repeat_question_trial.thisTrialN,repeat_question_trial.thisN,repeat_question_trial.thisIndex,thisRow.t,notes,welcome_screen.started,welcome_text.started,key_welcome.started,welcome_screen.stopped,key_welcome.keys,key_welcome.rt,key_welcome.duration,questions_trial.started,text.started,key_resp.started,questions_trial.stopped,key_resp.keys,key_resp.corr,key_resp.rt,key_resp.duration,goodbye_screen.started,text_goodbye.started,key_resp_2.started,goodbye_screen.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,,0.006734099937602878,0.021939699887298048,0.021939699887298048,0.6228882999857888,space,0.5889492999995127,None,,,,,,,,,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"Which Python library gives you access to your computer's current time (hour and minute)? 
+ 
+ A: time 
+ B: calendar 
+ C: numpy 
+ D: pd",a,0,0,0,8,0.659906999906525,,,,,,,,,0.6310042999684811,0.659906999906525,0.659906999906525,2.5598665999714285,a,1,1.8903201000066474,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"What is the right way to use ifelse() in R? 
+ 
+ A: The first argument is your if logical, the second argument your else, there is no other argument. 
+ B: The first argument is your logical, the second what should happen if it is true, the third if it is false. 
+ C: The first argument is the logical to test, the other arguments allow you to make several outcomes. 
+ D: ifelse() is the same as three if-else statements.",b,0,1,1,0,2.603199099889025,,,,,,,,,2.560690699960105,2.603199099889025,2.603199099889025,4.0364483000012115,b,1,1.4200974999694154,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"Which of these is not a real difference between R and Python? 
+ 
+ A: A global variable can be called within a function in one but not the other language. 
+ B: The indexing begins with 0 in one of them, with 1 in the other. 
+ C: Square brackets [] cannot be used to access elements in a data frame in one of them. 
+ D: One of them relies more heavily on libraries than the other to perform its primary functions.",c,0,2,2,3,4.080921799992211,,,,,,,,,4.037126599927433,4.080921799992211,4.080921799992211,4.947243699920364,c,1,0.8620942999841645,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"What is the right way to begin a for loop in R? 
+ 
+ A: for i in 1:5: 
+ B: for [i] in [length(df)]: 
+ C: for(int i = 0; i < 5; i++) { 
+ D: for(i in 1:length(df)) {",d,0,3,3,4,4.981482399976812,,,,,,,,,4.947862999979407,4.981482399976812,4.981482399976812,6.198362199938856,d,1,1.2068127000238746,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"What is the right way to create a simple scatterplot with ggplot? 
+ 
+ A: ggplot(data = data, mapping = aes(x = xvar, y = yvar)) + geom_count() 
+ B: ggplot() + geom_count(mapping = c(x = xvar, y = yvar)) 
+ C: ggplot(data = data, mapping = aes(x = "xvar", y = "yvar")) + geom_point() 
+ D: ggplot(data = data, mapping = aes(x = xvar, y = yvar)) + geom_point()",d,0,4,4,5,6.247117799939588,,,,,,,,,6.1989836998982355,6.247117799939588,6.247117799939588,8.863566399901174,d,1,2.60209489997942,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"Which one of these gives you a quick overview of some of your data from a data frame? 
+ 
+ A: View(df) 
+ B: get_overview(df) 
+ C: tidyr::look(df) 
+  D: head(df)",d,0,5,5,1,8.888385099940933,,,,,,,,,8.864190899999812,8.888385099940933,8.888385099940933,13.805067299981602,d,1,4.911500999936834,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"What is the function of %>%? 
+ 
+ A: It transmits the value from one line into the function in the next line. 
+ B: It transforms the value using a single function on the left hand side and assigns it to the variable on the right hand side. 
+ C: It assigns a value to a variable name. 
+ D: It allows you to combine elements of the ggplot package.",a,0,6,6,2,13.845079599996097,,,,,,,,,13.805691899964586,13.845079599996097,13.845079599996097,14.994801900000311,a,1,1.1387135999975726,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"Which of these is not a real function in base R? 
+ 
+ A: t() 
+ B: diag() 
+ C: propo() 
+ D: matrix()",c,0,7,7,6,15.012424199958332,,,,,,,,,14.99540019989945,15.012424199958332,15.012424199958332,16.346002899925224,c,1,1.3282064999220893,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"Which of the following is impossible in R? 
+ 
+ A: Making memes. 
+ B: Loading current data from a URL. 
+ C: Creating an app that organizes your spreadsheet. 
+ D: None of the above.",d,0,8,8,7,16.383557899971493,,,,,,,,,16.346621299977414,16.383557899971493,16.383557899971493,17.733821699977852,d,1,1.3478328000055626,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+"What is the correct syntax for making and saving png images in R? 
+ 
+ A: dev.on() 
+ plot() 
+ dev.off() 
+ 
+ B: plot() 
+ dev.off() 
+ save.png() 
+ 
+ C: png() 
+ plot() 
+ dev.off() 
+ 
+ D: plot() 
+ png() 
+ dev.off()",c,0,9,9,9,17.761139999958687,,,,,,,,,17.734824999934062,17.761139999958687,17.761139999958687,18.694168399902992,c,1,0.9233080999692902,None,,,,,,,,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
+,,,,,,,,,,,,,,,,,,,,,,,18.69461219990626,18.71028519992251,18.71028519992251,19.377809299970977,space,0.6564223999157548,None,5,001,2024-02-02_00h09.32.078,practice_exam,2023.2.3,60.04026299940707,2024-02-02 00h09.52.874238 +0100,
